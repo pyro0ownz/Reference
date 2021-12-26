@@ -1,5 +1,5 @@
 <h1>General Reference list (Incomplete)</h1>
-<h4>I will add to this more as have more time/h4>
+<h4>I will add to this more as have more time</h4>
 
 <h3>#search for public exploits</h3> 
 
