@@ -3,11 +3,11 @@
 
 <h3>#search for public exploits</h3> 
 
-<p>Searchsploit
-Google
+<p>Searchsploit\
+Google\
 github</p>
 
-<h3>#Serve content<h3/>
+<h3>#Serve content<h3/>Cancel changes
  
 <p>python3 -m http.server 80
  python2 -m SimpleHTTPServer 80</p>
