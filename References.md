@@ -203,7 +203,7 @@ https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted
 <h3>#####Tools you can use If your doing oscp######</h3>
 <p>SUID3NUM <br>
 winpeas <br>
-linpeas <!= 2.7.0 <br>
+linpeas < != 2.7.0 <br>
 lse.sh (google it) <br>
 nmapautomator #If you want automation because it only scans one host i made a suppliment script (https://github.com/pyro0ownz/nmapAutomator) <br>
 AutoRecon </p>
