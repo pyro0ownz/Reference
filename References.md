@@ -56,11 +56,11 @@ find / \( -perm -o w -perm -o x \) -type d 2>/dev/null # world-writeable & execu
 <h3>#communicate with msssql</h3>
 
 <p>#basic mysql stuff to login and database <br>
-mysql -u <username> -p <password;<br>
-show databases;<br>
-use <table>;<br>
-show tables;<br>
-select * from <table>;<br>
+mysql -u <username> -p <password; <br>
+show databases; <br>
+use <table>; <br>
+show tables; <br>
+select * from <table>; <br>
 
 sqsh<br>
 
