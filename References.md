@@ -7,7 +7,7 @@
 Google<br>
 github</p>
 
-<h3>#Serve content<h3/>Cancel changes
+<h3>#Serve content</h3>
  
 <p>python3 -m http.server 80 <br>
  python2 -m SimpleHTTPServer 80</p>
